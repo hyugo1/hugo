@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Hyugo
-#### I am an ongoing computer science student
+#### I am a current computer science student
 I am Hyugo from Japan, and I am currently a computer science student. I currently enjoy learning new languages and making new projects!
 
 Skills: XCODE(SWIFT) / PYTHON / JAVA / REACT / JS / HTML / CSS
